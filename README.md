@@ -8,4 +8,6 @@ Every time you click the butten you get a new quote
 - CSS
 - [API](https://type.fit/api/quotes)
 
-## [Deployed App](https://motivational-quotes.vercel.app/)
+## Deployed App
+
+[click here!](https://motivational-quotes.vercel.app/)
