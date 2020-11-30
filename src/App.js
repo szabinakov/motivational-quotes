@@ -25,10 +25,8 @@ function App() {
     <div className="container">
       <div className="App">
         <h2>Get motivated!</h2>
-        <div>
-          <h3>{quotes.text}</h3>
-          <p>{quotes.author === null ? "🤷‍♀️" : quotes.author}</p>
-        </div>
+        <h3>{quotes.text}</h3>
+        <p>{quotes.author === null ? "🤷‍♀️" : quotes.author}</p>
         <button onClick={newQuote}>Click Me!</button>
       </div>
     </div>

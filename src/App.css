@@ -9,6 +9,7 @@
   width: 340px;
   height: 350px;
   text-align: center;
+  padding: 10px;
   background-color: mistyrose;
   box-shadow: 10px 10px 10px;
   border-radius: 30px;
@@ -18,18 +19,8 @@
   justify-content: space-evenly;
   border: 2px solid black;
 }
-.container > .App > h2 {
-  margin-top: -250px;
-  align-self: center;
-  position: fixed;
-}
-.container > .App > div {
-  padding: 10px;
-}
 
 .App > button {
-  position: fixed;
-  margin-top: 150px;
   align-self: center;
   width: 80px;
   height: 30px;
